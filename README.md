@@ -26,6 +26,7 @@
 
 <p align="center">
   <img src="Images/img1.png" width="400" style="display: inline-block;">
+  <Br>
   <img src="Images/img2.png" width="400" style="display: inline-block; margin: 0 20px;">
   <img src="Images/img3.png" width="400" style="display: inline-block;">
 </p>
